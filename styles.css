@@ -12,7 +12,7 @@ main {
 header .logo {
   margin-inline: auto;
   display: block;
-  width: 25%;
+  width: 15%;
 }
 header .logo-in img {
   width: 100%;
@@ -33,6 +33,7 @@ header .header-text {
 main h1 {
   color: #333333;
   text-align: center;
+  font-weight: 800;
 }
 
 main .description {
