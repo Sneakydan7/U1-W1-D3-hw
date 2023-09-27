@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-family: "Lora", sans-serif;
+}
+
+main {
+  width: 80%;
+  text-align: center;
+  margin-inline: auto;
+  padding: 3rem;
+}
+header .logo {
+  margin-inline: auto;
+  display: block;
+  width: 25%;
+}
+header .logo-in img {
+  width: 100%;
+}
+header h4 {
+  background-color: #fdfbf1;
+  margin: 0;
+  padding: 15px;
+  border: 13px;
+  border-top: 1px solid #fedb82;
+}
+header .header-text {
+  font-size: smaller;
+  text-align: center;
+  color: #004d4c;
+  font-family: inherit;
+}
+main h1 {
+  color: #333333;
+  text-align: center;
+}
+
+main .description {
+  text-align: left;
+}
+
+main .video {
+  width: 85%;
+  border-radius: 10px;
+  box-shadow: 6px 5px 8px -4px rgba(0, 0, 0, 0.46);
+}
+main .reference {
+  color: #9b9b9b;
+  text-align: center;
+}
+main .feature-box {
+  border-left: 2px solid #ffe39f;
+  padding: 3px;
+  text-align: left;
+}
+main .featurein {
+  color: #b95220;
+}
+main .feature-box a {
+  color: #026f6f;
+}
+main .listshead {
+  text-align: left;
+  border-bottom: 2px solid #d7f7f6;
+}
+main .lists {
+  text-align: left;
+}
+
+main .method {
+  text-align: left;
+  border-bottom: 2px solid #d7f7f6;
+}
+footer {
+  width: 80%;
+  text-align: left;
+  margin-inline: auto;
+}
