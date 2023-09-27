@@ -4,15 +4,16 @@ body {
 }
 
 main {
-  width: 80%;
+  width: 65%;
   text-align: center;
   margin-inline: auto;
-  padding: 3rem;
 }
 header .logo {
   margin-inline: auto;
   display: block;
   width: 15%;
+  margin-bottom: 4px;
+  margin-top: 4px;
 }
 header .logo-in img {
   width: 100%;
@@ -41,7 +42,7 @@ main .description {
 }
 
 main .video {
-  width: 85%;
+  width: 100%;
   border-radius: 10px;
   box-shadow: 6px 5px 8px -4px rgba(0, 0, 0, 0.46);
 }
@@ -56,24 +57,30 @@ main .feature-box {
 }
 main .featurein {
   color: #b95220;
+  padding-left: 10px;
 }
 main .feature-box a {
   color: #026f6f;
+  padding-left: 10px;
 }
 main .listshead {
   text-align: left;
   border-bottom: 2px solid #d7f7f6;
+  margin-top: 50.92px;
 }
 main .lists {
   text-align: left;
 }
-
+main ul li {
+  padding: 7px;
+}
 main .method {
   text-align: left;
   border-bottom: 2px solid #d7f7f6;
 }
 footer {
-  width: 80%;
+  width: 65%;
   text-align: left;
   margin-inline: auto;
+  margin-bottom: -9px;
 }
